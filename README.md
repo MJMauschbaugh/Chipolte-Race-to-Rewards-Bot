@@ -9,7 +9,7 @@ pip install keyboard
 ```
 
 # Usage
-Run Program using 
+Run Program using python3
 ```bash
 python3 "Race To Rewards Bot.py"
 ```
